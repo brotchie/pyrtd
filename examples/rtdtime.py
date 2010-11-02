@@ -1,5 +1,5 @@
 """
-Example usage of pyrtd.RTDClient connecting to the RTDTime.RTD component. The
+Example usage of rtd.RTDClient connecting to the RTDTime.RTD component. The
 RTDTime.dll implementing this component is part of the "Building a Real-Time
 Data Server in Excel 2002" MSDN article and is available at:
 
